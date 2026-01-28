@@ -1,0 +1,100 @@
+# FinDoc Intelligence - Configuration File
+
+# Project Paths
+paths:
+  data_raw: "data/raw"
+  data_processed: "data/processed"
+  sample_docs: "data/sample_docs"
+  models: "models"
+  outputs: "outputs"
+
+# Document Processing Settings
+processing:
+  # Supported file formats
+  supported_formats:
+    - pdf
+    - png
+    - jpg
+    - jpeg
+    - tiff
+  
+  # OCR settings (for scanned images)
+  ocr:
+    language: "eng"  # English
+    dpi: 300  # Image quality for OCR
+  
+  # PDF extraction settings
+  pdf:
+    extract_images: true
+    extract_tables: true
+
+# Document Classification Settings
+classification:
+  # Document types we recognize
+  document_types:
+    - credit_report
+    - balance_sheet
+    - income_statement
+    - rating_report
+  
+  # ML model settings
+  model:
+    type: "random_forest"  # or "logistic_regression", "svm"
+    test_size: 0.2  # 20% data for testing
+    random_state: 42
+
+# Data Extraction Settings
+extraction:
+  # Financial entities to extract
+  entities:
+    - company_name
+    - registration_number
+    - credit_score
+    - revenue
+    - profit
+    - debt
+    - equity
+    - credit_rating
+    - lei_code  # LEI = Legal Entity Identifier
+    - duns_number  # D&B = Dun & Bradstreet number
+  
+  # Date formats commonly found in financial docs
+  date_formats:
+    - "%d/%m/%Y"  # 31/12/2024
+    - "%Y-%m-%d"  # 2024-12-31
+    - "%d %B %Y"  # 31 December 2024
+
+# RAG (Retrieval Augmented Generation) Settings
+rag:
+  # Vector database settings
+  vector_db:
+    type: "chromadb"  # or "faiss"
+    collection_name: "financial_docs"
+    embedding_model: "sentence-transformers/all-MiniLM-L6-v2"  # Open source embeddings
+  
+  # Chunk settings for document splitting
+  chunking:
+    chunk_size: 500  # characters per chunk
+    chunk_overlap: 50  # overlap between chunks
+  
+  # Retrieval settings
+  retrieval:
+    top_k: 3  # Return top 3 most relevant chunks
+  
+  # LLM settings
+  llm:
+    provider: "ollama"  # Local LLM
+    model: "llama2"  # or "mistral"
+    temperature: 0.1  # Low temperature for factual answers
+    max_tokens: 500
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "outputs/app.log"
+
+# Development Settings
+dev:
+  debug: true
+  verbose: true

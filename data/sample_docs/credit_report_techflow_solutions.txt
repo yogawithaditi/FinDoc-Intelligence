@@ -1,0 +1,212 @@
+================================================================================
+                        CREDITSAFE CREDIT REPORT
+================================================================================
+
+Report Date: 15 December 2024
+Report Reference: CS-2024-UK-789456
+Currency: GBP (£)
+
+================================================================================
+COMPANY INFORMATION
+================================================================================
+
+Company Name:           TechFlow Solutions Limited
+Trading Name:           TechFlow Solutions
+Legal Form:             Private Limited Company
+
+Registration Number:    08765432
+LEI Code:              254900ABCDEF1234GHIJ56
+DUNS Number:           123456789
+
+Registered Office:      45 Innovation Drive
+                       Tech Park Business Centre
+                       Manchester M15 4FN
+                       United Kingdom
+
+Date of Incorporation:  12 March 2018
+Company Status:         Active - Trading
+SIC Code:              62012 (Business and domestic software development)
+
+================================================================================
+CREDIT SCORE & RATING
+================================================================================
+
+Credit Score:           75 / 100
+Credit Rating:          B+ (Good)
+Risk Level:             LOW TO MEDIUM
+
+Credit Limit (Recommended):  £150,000
+Payment Terms:          Net 30 days
+
+Score Breakdown:
+  - Payment History:         82/100  (Very Good)
+  - Financial Stability:     71/100  (Good)
+  - Company Age:            68/100  (Good)
+  - Legal Records:          95/100  (Excellent)
+  - Trade References:       78/100  (Good)
+
+================================================================================
+FINANCIAL SUMMARY
+================================================================================
+
+Latest Filed Accounts:  31 March 2024
+
+Total Assets:           £2,450,000
+Total Liabilities:      £1,320,000
+Net Worth:             £1,130,000
+
+Revenue (Turnover):     £4,850,000
+Profit Before Tax:      £485,000
+Profit Margin:          10.0%
+
+Current Ratio:          1.85
+Debt-to-Equity Ratio:   0.42
+Return on Assets:       19.8%
+
+Number of Employees:    42
+
+================================================================================
+PAYMENT HISTORY
+================================================================================
+
+Payment Behavior Score: 82/100
+
+Payment Summary (Last 12 Months):
+  - Total Transactions:      156
+  - On-Time Payments:       145 (93%)
+  - Late Payments (1-30 days): 9 (6%)
+  - Late Payments (31+ days):  2 (1%)
+  - Defaults:                0 (0%)
+
+Average Payment Days:   28 days (Terms: Net 30)
+
+Recent Payment Trends:
+  Q4 2024:  95% on-time (Excellent)
+  Q3 2024:  91% on-time (Very Good)
+  Q2 2024:  90% on-time (Very Good)
+  Q1 2024:  92% on-time (Very Good)
+
+================================================================================
+TRADE REFERENCES
+================================================================================
+
+Number of Trade References: 12
+Average Credit Extended:    £28,500
+
+Reference 1:
+  Supplier:        Global Tech Supplies Ltd
+  Credit Limit:    £50,000
+  Outstanding:     £12,000
+  Highest Balance: £45,000
+  Payment Rating:  Prompt (Within Terms)
+  Experience:      24 months
+
+Reference 2:
+  Supplier:        Cloud Infrastructure Services
+  Credit Limit:    £35,000
+  Outstanding:     £8,500
+  Highest Balance: £32,000
+  Payment Rating:  Prompt (Within Terms)
+  Experience:      18 months
+
+Reference 3:
+  Supplier:        Office Solutions UK
+  Credit Limit:    £15,000
+  Outstanding:     £3,200
+  Highest Balance: £14,000
+  Payment Rating:  Slow (30-45 days)
+  Experience:      36 months
+
+================================================================================
+DIRECTORS & OFFICERS
+================================================================================
+
+Director 1:
+  Name:            Sarah J. Mitchell
+  Date of Birth:   15/07/1982
+  Nationality:     British
+  Appointment Date: 12/03/2018
+  Role:            Managing Director & CEO
+  Other Directorships: 2
+
+Director 2:
+  Name:            James K. Patterson
+  Date of Birth:   22/11/1979
+  Nationality:     British
+  Appointment Date: 12/03/2018
+  Role:            Finance Director & CFO
+  Other Directorships: 1
+
+================================================================================
+COUNTY COURT JUDGEMENTS (CCJs)
+================================================================================
+
+Total CCJs (Last 6 Years):  0
+Satisfied CCJs:             0
+Outstanding CCJs:           0
+
+Total Value:                £0
+
+Status: CLEAR - No adverse court judgements recorded
+
+================================================================================
+INSOLVENCY INFORMATION
+================================================================================
+
+Insolvency Proceedings:     None
+Bankruptcy Petitions:       None
+Administration Orders:      None
+Winding-up Petitions:       None
+
+Status: CLEAR - No insolvency proceedings
+
+================================================================================
+RISK INDICATORS
+================================================================================
+
+✓ Company is trading actively
+✓ Financial accounts filed on time
+✓ No adverse legal records
+✓ Payment history is strong
+✓ Directors have clean records
+
+⚠ Minor late payments noted (6% of transactions)
+⚠ Debt levels moderate relative to equity
+
+Overall Risk Assessment: LOW TO MEDIUM
+Recommendation: APPROVED for credit up to £150,000
+
+================================================================================
+CREDIT DECISION
+================================================================================
+
+RECOMMENDED ACTION:     APPROVE
+MAXIMUM CREDIT LIMIT:   £150,000
+PAYMENT TERMS:          Net 30 days
+REVIEW DATE:           15 March 2025
+
+Decision Rationale:
+The company demonstrates strong financial performance with consistent 
+profitability and healthy cash flow. Payment history is excellent with 93% 
+on-time payments over the last 12 months. Minor late payments are within 
+acceptable ranges and do not indicate systemic payment issues. The company 
+has no adverse legal records or insolvency indicators. Financial ratios 
+are healthy, indicating good liquidity and manageable debt levels.
+
+================================================================================
+REPORT DISCLAIMER
+================================================================================
+
+This report is provided for business credit assessment purposes only. 
+Information is compiled from public records and trade references. While 
+every effort is made to ensure accuracy, Creditsafe cannot guarantee the 
+completeness or accuracy of all information. Credit decisions should 
+consider this report alongside other due diligence activities.
+
+Report Generated: 15/12/2024 14:32:18 GMT
+Valid Until: 15/03/2025
+
+================================================================================
+                    © 2024 Creditsafe Business Solutions
+                         www.creditsafe.com
+================================================================================
